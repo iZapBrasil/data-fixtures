@@ -1,5 +1,5 @@
 {
-    "name": "iZapBrasil/data-fixtures",
+    "name": "izapbrasil/data-fixtures",
     "type": "library",
     "description": "Data Fixtures for all Doctrine Object Managers",
     "keywords": ["database"],
